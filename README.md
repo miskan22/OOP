@@ -1,2 +1,2 @@
-# OOP-Part1
+# OOP
 This is my own assignment work during this objected oriented programming course.
